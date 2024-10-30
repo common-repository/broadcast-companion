@@ -1,0 +1,9 @@
+.toplevel_page_bc-companion .twitch-plugins-upsell {justify-content: center;display: flex; flex-wrap: wrap;max-width: 1000px;margin: 0 auto;}
+.toplevel_page_bc-companion .twitch-plugins-upsell-item {width: calc(33.3% - 4%);display: inline-flex;flex-direction: column; justify-content: space-between; vertical-align: top; margin: 0 2% 2%;}
+.toplevel_page_bc-companion .twitch-plugins-upsell-item img {width: 100%; height: auto;}
+.toplevel_page_bc-companion .twitch-plugins-upsell-item span {display: block;text-align: center;margin: 5px 0;}
+.toplevel_page_bc-companion .twitch-plugins-upsell-item a {display: block;width: 100%; text-align: center;}
+.toplevel_page_bc-companion .disabled {cursor: not-allowed;}
+.toplevel_page_bc-companion .upsell {color: red;}
+.toplevel_page_bc-companion #twitch-module {max-width: 1240px;margin: 0 auto;}
+.toplevel_page_bc-companion .wp-menu-image img {height: 20px !important;}
